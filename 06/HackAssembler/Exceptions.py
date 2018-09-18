@@ -1,0 +1,2 @@
+class InstructionError(Exception):
+    pass
